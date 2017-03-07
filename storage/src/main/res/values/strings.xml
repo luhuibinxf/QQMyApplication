@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">storage</string>
+    <string name="read">读出</string>
+    <string name="write">写入</string>
+</resources>

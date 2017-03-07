@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QQ My Application</string>
+    <string name="jump">跳转</string>
+    <string name="sing">标签/控件</string>
+</resources>

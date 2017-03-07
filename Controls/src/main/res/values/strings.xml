@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gridview">gridView控件</string>
+    <string name="listView">listView控件</string>
+    <string name="Spinner">spinner控件</string>
+    <string name="Expandable">expandable控件</string>
+    <string name="Title">标题</string>
+    <string name="content">内容</string>
+    <string name="Price">价格</string>
+    <string name="Sold">售出</string>
+    <string name="languages">语言</string>
+    <string name="name">学生姓名</string>
+</resources>
